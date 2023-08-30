@@ -36,7 +36,7 @@ const s = secs - mins * 60;*/
 // console.log(min);
 // console.log(sec);
 
-if (diff < 0) return; 
+if (diff < 0) return 0; 
 
 inputs[0].value = days;
 inputs[1].value = hours;
