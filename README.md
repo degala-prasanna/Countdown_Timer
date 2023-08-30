@@ -28,10 +28,11 @@ The Countdown Timer is a web application that allows users to input a future dat
 
 Check out the live demo of the Countdown Timer [here](https://degala-prasanna.github.io/Countdown_Timer/).
 
-![Countdown Timer](images\countdown_timer_ss1.png)
+![Countdown Timer](https://github.com/degala-prasanna/Countdown_Timer/assets/94045180/4ee40b6d-3f80-4929-91bd-ebc835f20fa4)
 
 
-![Countdown Timer](images\countdown_timer_ss2.png)
+![countdown_timer_ss2](https://github.com/degala-prasanna/Countdown_Timer/assets/94045180/731841a8-816c-4666-b45a-f437b77e4888)
+
 
 
 ## 🏁 Getting Started
