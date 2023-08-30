@@ -1,6 +1,6 @@
 
 function getUserDate() {
-    let userDate = prompt("Enter the date in this format (aug 31, 2023 08:14:40) to start your Countdown Timer:");
+    let userDate = prompt("Enter the date in the format (Aug 31, 2023 08:14:40) using the 24-hour clock to start your Countdown Timer:");
     let future = Date.parse(userDate);
     return future;
 }
